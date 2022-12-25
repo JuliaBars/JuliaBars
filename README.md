@@ -22,14 +22,17 @@
 <h3>Yatube - social network live journal</font></h3>
 
 
+
 <p>
 <details>
 <summary>For more details click below</summary>
 You can create your diary, read others', follow authors and enjoy there publications on subscription page.
 
 <a href="http://github.com/JuliaBars/hw05_final">Yatube on git</a>
+![1](https://user-images.githubusercontent.com/107411145/209466410-f99aedc1-e2ee-4f5e-9b17-14973241ed7d.jpg)
 </details>
 </p>
+
 
 <h3>Telegram bot for shelter</h3>
 <p>
@@ -47,6 +50,10 @@ You can create simple bot with Aiogram and SQLAlchemy, bot will show random pet 
 <summary>For more details click below</summary>
 This is part of big charity project, I'm in backend developer dep, finally it will be many functional site which helps people and shelter find each other.
 <a href="https://github.com/CraftyPlonkton/help_paw_backend">Shelters on map</a>
+
+![shelter_on_map](https://user-images.githubusercontent.com/107411145/209466631-15fa5787-5de3-41f4-b042-452ce30ae1b3.jpg)
+
+
 </details>
 </p>
 
