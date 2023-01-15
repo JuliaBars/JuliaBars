@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Julia.+Study+and+like+Python)](https://git.io/typing-svg)
 
+_Contact me: tg @WhiteBarssss_
 
 <h3><span style="color: #2336f7"> My stack will increase, but now it's as follow:</span></h3>
 
