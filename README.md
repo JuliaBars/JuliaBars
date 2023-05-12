@@ -20,58 +20,74 @@ _Contact me: tg @WhiteBarssss_
 ***
 <h2><span style="color: #2336f7"> My portfolio:</span></h2>
 
-<h3>Yatube - social network live journal</font></h3>
 
 
+<h3>Shelters on map</h3>
+<a href=https://lapkipomoshi.ru/>Shelters on map</a>
+<p>
+<details>
+<summary>For more details click below</summary>
+This is part of big charity project, I'm in backend developer, finally it will be many functional site which helps people and shelter find each other.
+<a href="https://github.com/Lapkipomoshi">Shelters on map</a>
 
+![shelter_on_map](https://user-images.githubusercontent.com/107411145/209466631-15fa5787-5de3-41f4-b042-452ce30ae1b3.jpg)
+  
+</details>
+</p>
+
+<h3>HireHire</h3>
+<a href=https://test-hire-hire.proninteam.ru/>HireHire</a>
+<p>
+<details>
+<summary>For more details click below</summary>
+We will help people to get ready to interview.
+<a href="https://github.com/hire-hire">HireHire</a>
+
+![2023-05-12_20-49-55](https://github.com/JuliaBars/JuliaBars/assets/107411145/ccf8de56-db01-41b5-8cbf-55e33e780976)
+  
+</details>
+</p>
+
+<h3>dementia.net</h3>
+<a href=https://деменция.net/>HireHire</a>
+<p>
+I am part of big charity projects, which help people to check their dementia status and visit specialist if necessary.
+<details>
+<summary>For more details click below</summary>
+We will help people to get ready to interview.
+<a href="https://github.com/hire-hire">HireHire</a>
+
+![2023-05-12_20-54-30](https://github.com/JuliaBars/JuliaBars/assets/107411145/72d8dcc8-a0bb-402b-805a-7307c7e5bde8)
+  
+</details>
+</p>
+
+
+<h3>Social network live journal</font></h3>
 <p>
 <details>
 <summary>For more details click below</summary>
 You can create your diary, read others', follow authors and enjoy there publications on subscription page.
 
-<a href="http://github.com/JuliaBars/hw05_final">Yatube on git</a>
+<a href="http://github.com/JuliaBars/hw05_final">Project on git</a>
 ![1](https://user-images.githubusercontent.com/107411145/209466410-f99aedc1-e2ee-4f5e-9b17-14973241ed7d.jpg)
 </details>
 </p>
 
-
-<h3>Telegram bot for shelter</h3>
-<p>
-<details>
-<summary>For more details click below</summary>
-You can create simple bot with Aiogram and SQLAlchemy, bot will show random pet from shelter by clicking button "dog", "cat", show contacts and in future will be adding donate option
-
-<a href="https://github.com/JuliaBars/bot_for_shelter">Shelter bot on git</a>
-</details>
-</p>
-
-<h3>Shelters on map</h3>
-<p>
-<details>
-<summary>For more details click below</summary>
-This is part of big charity project, I'm in backend developer dep, finally it will be many functional site which helps people and shelter find each other.
-<a href="https://github.com/CraftyPlonkton/help_paw_backend">Shelters on map</a>
-
-![shelter_on_map](https://user-images.githubusercontent.com/107411145/209466631-15fa5787-5de3-41f4-b042-452ce30ae1b3.jpg)
-
-
-</details>
-</p>
-
-<h3>API Yamdb - book raiting social network</h3>
+<h3>Book raiting social network</h3>
 <p>
 <details>
 <summary>For more details click below</summary>
 This is my first team project, where I was a teamlead.
 Here you can add your review to any book, rate it, cooment others' reviews.
 
-<a href="https://github.com/JuliaBars/api_yamdb">Shelter bot on git</a>
+<a href="https://github.com/JuliaBars/api_yamdb">Project on git</a>
 </details>
 </p>
 
 
 ***
-**Also I'm very interested in ML, we are doing pet-project with my son - simple neural network. Looking forward to growing in it...**
+**Also I'm very interested in ML. Looking forward to growing in it...**
 
 ***
 [![trophy](https://github-profile-trophy.vercel.app/?username=JuliaBars)](https://github.com/JuliaBars/github-profile-trophy)
