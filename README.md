@@ -25,9 +25,10 @@ _Contact me: tg @WhiteBarssss_
 <h3>Shelters on map</h3>
 <a href=https://lapkipomoshi.ru/>Visit "Shelters on map" web site</a>
 <p>
+
+This is part of big charity project, I'm in backend developer, finally it will be many functional site which helps people and shelter find each other.
 <details>
 <summary>For more details click below</summary>
-This is part of big charity project, I'm in backend developer, finally it will be many functional site which helps people and shelter find each other.
 <a href="https://github.com/Lapkipomoshi">Shelters on map GitHub</a>
 
 ![shelter_on_map](https://user-images.githubusercontent.com/107411145/209466631-15fa5787-5de3-41f4-b042-452ce30ae1b3.jpg)
@@ -38,9 +39,10 @@ This is part of big charity project, I'm in backend developer, finally it will b
 <h3>HireHire</h3>
 <a href=https://test-hire-hire.proninteam.ru/>Visit "HireHire" web site</a>
 <p>
+ 
+We will help people to get ready to interview.
 <details>
 <summary>For more details click below</summary>
-We will help people to get ready to interview.
 <a href="https://github.com/hire-hire">HireHire on GitHub</a>
 
 ![2023-05-12_20-49-55](https://github.com/JuliaBars/JuliaBars/assets/107411145/ccf8de56-db01-41b5-8cbf-55e33e780976)
