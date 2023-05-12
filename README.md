@@ -51,7 +51,8 @@ We will help people to get ready to interview.
 <h3>dementia.net</h3>
 <a href=https://деменция.net/>Visit "Dementia.net" web site</a>
 <p>
-I am part of big charity projects, which help people to check their dementia status and visit specialist if necessary.
+
+I am part of big charity project, which helps people to check their dementia status and visit specialist if necessary.
 <details>
 <summary>For more details click below</summary>
 
