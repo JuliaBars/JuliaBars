@@ -26,7 +26,7 @@ _Contact me: tg @WhiteBarssss_
 <a href=https://lapkipomoshi.ru/>Visit "Shelters on map" web site</a>
 <p>
 
-This is part of big charity project, I'm in backend developer, finally it will be many functional site which helps people and shelter find each other.
+This is part of big charity project, finally it will be many functional site which helps people and shelter find each other.
 <details>
 <summary>For more details click below</summary>
 <a href="https://github.com/Lapkipomoshi">Shelters on map GitHub</a>
