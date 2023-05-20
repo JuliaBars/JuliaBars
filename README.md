@@ -16,6 +16,7 @@ _Contact me: tg @WhiteBarssss_
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![HTTPX](https://img.shields.io/badge/HTTPX-client%20for%20Python-blue)
 
 ***
 <h2><span style="color: #2336f7"> My portfolio:</span></h2>
