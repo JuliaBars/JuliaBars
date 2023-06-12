@@ -17,6 +17,9 @@ _Contact me: tg @WhiteBarssss_
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![HTTPX](https://img.shields.io/badge/HTTPX-client%20for%20Python-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Colab](https://img.shields.io/badge/google_colaboratory-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ***
 <h2><span style="color: #2336f7"> My portfolio:</span></h2>
@@ -62,6 +65,18 @@ I am part of big charity project, which helps people to check their dementia sta
 ![2023-05-12_20-54-30](https://github.com/JuliaBars/JuliaBars/assets/107411145/72d8dcc8-a0bb-402b-805a-7307c7e5bde8)
   
 </details>
+</p>
+
+<h3>Fullstack ToDo App with FastAPI</font></h3>
+<p>
+<details>
+<summary>For more details click below</summary>
+SignIn and add your ToDos, delete, update, mark as done, search ToDos...
+
+<a href="https://github.com/JuliaBars/fullstack_app_todo_FastApi">Project on git</a>
+![2023-06-12_20-53-08](https://github.com/JuliaBars/JuliaBars/assets/107411145/e4b88d59-e237-44b1-babc-85275c907b38)
+</details>
+
 </p>
 
 
