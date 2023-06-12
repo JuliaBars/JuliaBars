@@ -40,6 +40,8 @@ This is part of big charity project, finally it will be many functional site whi
 </details>
 </p>
 
+---
+
 <h3>HireHire</h3>
 <a href=https://test-hire-hire.proninteam.ru/>Visit "HireHire" web site</a>
 <p>
@@ -54,6 +56,8 @@ We will help people to get ready to interview.
 </details>
 </p>
 
+---
+
 <h3>dementia.net</h3>
 <a href=https://деменция.net/>Visit "Dementia.net" web site</a>
 <p>
@@ -67,6 +71,8 @@ I am part of big charity project, which helps people to check their dementia sta
 </details>
 </p>
 
+---
+
 <h3>Fullstack ToDo App with FastAPI</font></h3>
 <p>
 <details>
@@ -76,9 +82,9 @@ SignIn and add your ToDos, delete, update, mark as done, search ToDos...
 <a href="https://github.com/JuliaBars/fullstack_app_todo_FastApi">Project on git</a>
 ![2023-06-12_20-53-08](https://github.com/JuliaBars/JuliaBars/assets/107411145/e4b88d59-e237-44b1-babc-85275c907b38)
 </details>
-
 </p>
 
+---
 
 <h3>Social network live journal</font></h3>
 <p>
@@ -90,6 +96,8 @@ You can create your diary, read others', follow authors and enjoy there publicat
 ![1](https://user-images.githubusercontent.com/107411145/209466410-f99aedc1-e2ee-4f5e-9b17-14973241ed7d.jpg)
 </details>
 </p>
+
+---
 
 <h3>Book raiting social network</h3>
 <p>
