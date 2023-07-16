@@ -43,6 +43,7 @@ You can try car models classification, object detection and object croppinq with
 
 </p>
 
+---
 
 <h3>Shelters on map</h3>
 <a href=https://lapkipomoshi.ru/>Visit "Shelters on map" web site</a>
