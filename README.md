@@ -27,7 +27,7 @@ _Contact me: tg @JuliaBarss_
 <h3>Cars models classification with PyTorch and FastAPI</h3>
 <p>
 I trained my own model and built in FastAPI app, also I've added Yolo8 to app.
-You can try car models classification, object detection and object croppinq with fully removed background.
+You can try car models classification, object detection and object cropping with fully removed background.
   
 <details>
 <summary>For more details click below</summary>
