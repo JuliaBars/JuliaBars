@@ -24,6 +24,24 @@ _Contact me: tg @JuliaBarss_
 ***
 <h2><span style="color: #2336f7"> My portfolio:</span></h2>
 
+<h3>Cars models classification with PyTorch and FastAPI</h3>
+<p>
+I trained my own model and built in FastAPI app, also I've added Yolo8 to app.
+You can try car models classification, object detection and object croppinq with fully removed background.
+  
+<details>
+<summary>For more details click below</summary>
+<a href="https://github.com/JuliaBars/FastAPI_app_for_car_classification_ML">App on GitHub</a>
+
+![classification](https://github.com/JuliaBars/JuliaBars/assets/107411145/d3b6e28b-13d1-464c-b5d2-56cec46aaf8e)
+
+![segment and crop](https://github.com/JuliaBars/JuliaBars/assets/107411145/767247d2-de11-47b4-98bb-ba07443d896b)
+
+![detection](https://github.com/JuliaBars/JuliaBars/assets/107411145/be2d4d31-2e8d-4ba9-a16d-1200344bd7a4)
+
+</details>
+
+</p>
 
 
 <h3>Shelters on map</h3>
@@ -52,21 +70,6 @@ We will help people to get ready to interview.
 <a href="https://github.com/hire-hire">HireHire on GitHub</a>
 
 ![2023-05-12_20-49-55](https://github.com/JuliaBars/JuliaBars/assets/107411145/ccf8de56-db01-41b5-8cbf-55e33e780976)
-  
-</details>
-</p>
-
----
-
-<h3>dementia.net</h3>
-<a href=https://деменция.net/>Visit "Dementia.net" web site</a>
-<p>
-
-I am part of big charity project, which helps people to check their dementia status and visit specialist if necessary.
-<details>
-<summary>For more details click below</summary>
-
-![2023-05-12_20-54-30](https://github.com/JuliaBars/JuliaBars/assets/107411145/72d8dcc8-a0bb-402b-805a-7307c7e5bde8)
   
 </details>
 </p>
