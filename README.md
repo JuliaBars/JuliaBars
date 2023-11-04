@@ -21,6 +21,7 @@ _Contact me: tg @JuliaBarss_
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Colab](https://img.shields.io/badge/google_colaboratory-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
+![image](https://www.codewars.com/users/JuliaBars/badges/small)
 ***
 <h2><span style="color: #2336f7"> My portfolio:</span></h2>
 
