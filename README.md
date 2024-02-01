@@ -46,6 +46,22 @@ You can try car models classification, object detection and object cropping with
 
 ---
 
+<h3>Human detection with CCTV camera</h3>
+<p>
+Human detection helps to avoid unnecessary alerts to the security system from the motion sensor if a cat or dog is in the frame.
+<p>App was deployed with Streamlit servers. Sometimes it is down:) <a href="https://thiefdetectionwithcctvcam.streamlit.app/">Website</a></p> 
+  
+<details>
+<summary>For more details click below</summary>
+<a href="https://github.com/JuliaBars/thief_detection_with_cctv_cam">App on GitHub</a>
+
+![detection](https://github.com/JuliaBars/JuliaBars/assets/107411145/d465b6cd-18cd-45de-94c3-757014df45f1)
+</details>
+
+</p>
+
+---
+
 <h3>Shelters on map</h3>
 <a href=https://lapkipomoshi.ru/>Visit "Shelters on map" web site</a>
 <p>
