@@ -82,13 +82,33 @@ This is part of big charity project, finally it will be many functional site whi
 <a href=https://test-hire-hire.proninteam.ru/>Visit "HireHire" web site</a>
 <p>
  
-We will help people to get ready to interview.
+We help people to get ready to interview.
 <details>
 <summary>For more details click below</summary>
 <a href="https://github.com/hire-hire">HireHire on GitHub</a>
 
 ![2023-05-12_20-49-55](https://github.com/JuliaBars/JuliaBars/assets/107411145/ccf8de56-db01-41b5-8cbf-55e33e780976)
-  
+ 
+</details>
+</p>
+
+---
+
+<h3>Social platform for recipes</h3>
+<p>
+You can create your own recipes, subscribe on authors, add to cart recipes and it will calculate ingredients.
+Add recipes to favorites, edit your recipes. And view recipe details. You can manage everythng in admin zone.
+Filter recipes by tags.
+<details>
+<summary>For more details click below</summary>
+<p> <a href="https://github.com/JuliaBars/platform_for_recipes">Project on git</a></p>
+
+![image](https://github.com/JuliaBars/JuliaBars/assets/107411145/a6978d02-179d-413d-868c-ecaba80ad17e)
+![image](https://github.com/JuliaBars/JuliaBars/assets/107411145/00ce97a9-93da-4ff8-b839-ed9c50c732fd)
+![image](https://github.com/JuliaBars/JuliaBars/assets/107411145/dea6bf19-2eeb-437e-9488-d24c2ab65c4e)
+![image](https://github.com/JuliaBars/JuliaBars/assets/107411145/3f0bb0b9-ae20-40b9-8a7a-40fe99679fbe)
+
+
 </details>
 </p>
 
@@ -96,12 +116,12 @@ We will help people to get ready to interview.
 
 <h3>Fullstack ToDo App with FastAPI</font></h3>
 <p>
+SignIn and add your ToDos, delete, update, mark as done, search ToDos...
 <details>
 <summary>For more details click below</summary>
-SignIn and add your ToDos, delete, update, mark as done, search ToDos...
-
 <a href="https://github.com/JuliaBars/fullstack_app_todo_FastApi">Project on git</a>
-![2023-06-12_20-53-08](https://github.com/JuliaBars/JuliaBars/assets/107411145/e4b88d59-e237-44b1-babc-85275c907b38)
+
+  ![2023-06-12_20-53-08](https://github.com/JuliaBars/JuliaBars/assets/107411145/e4b88d59-e237-44b1-babc-85275c907b38)
 </details>
 </p>
 
@@ -109,33 +129,16 @@ SignIn and add your ToDos, delete, update, mark as done, search ToDos...
 
 <h3>Social network live journal</font></h3>
 <p>
+You can create your diary, read others', follow authors and enjoy their publications on subscription page.
 <details>
 <summary>For more details click below</summary>
-You can create your diary, read others', follow authors and enjoy there publications on subscription page.
-
 <a href="http://github.com/JuliaBars/hw05_final">Project on git</a>
-![1](https://user-images.githubusercontent.com/107411145/209466410-f99aedc1-e2ee-4f5e-9b17-14973241ed7d.jpg)
+
+  ![1](https://user-images.githubusercontent.com/107411145/209466410-f99aedc1-e2ee-4f5e-9b17-14973241ed7d.jpg)
 </details>
 </p>
 
 ---
-
-<h3>Book raiting social network</h3>
-<p>
-<details>
-<summary>For more details click below</summary>
-This is my first team project, where I was a teamlead.
-Here you can add your review to any book, rate it, cooment others' reviews.
-
-<a href="https://github.com/JuliaBars/api_yamdb">Project on git</a>
-</details>
-</p>
-
-
-***
-**Also I'm very interested in ML. Looking forward to growing in it...**
-
-***
 [![trophy](https://github-profile-trophy.vercel.app/?username=JuliaBars)](https://github.com/JuliaBars/github-profile-trophy)
 <!---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuliaBars&theme=dark&mode=weekly)](https://git.io/streak-stats)
