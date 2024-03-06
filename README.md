@@ -25,6 +25,37 @@ _Contact me: tg @JuliaBarss_
 ***
 <h2><span style="color: #2336f7"> My portfolio:</span></h2>
 
+<h3>Fast search articles relevant to user query from dataset with 62K articles</h3>
+<p>
+<p>You can try project on Streamlit, if it is sleeping, don't hesitate to contact me in Telegram @JuliaBarss <a href="https://fast-search-relevant-articles.streamlit.app">website</a></p> 
+  
+<details>
+<summary>For more details click below</summary>
+<a href="https://github.com/JuliaBars/fast_search_relevant_articles">App on GitHub</a>
+
+![image](https://github.com/JuliaBars/JuliaBars/assets/107411145/4a376dda-e0e6-4ed4-8918-f1adcdd312d7)
+
+</details>
+
+</p>
+
+---
+
+<h3>Human detection with CCTV camera</h3>
+<p>
+Human detection helps to avoid unnecessary alerts to the security system from the motion sensor if a cat or dog is in the frame.
+<p>App was deployed with Streamlit servers. Sometimes it is down:) <a href="https://thiefdetectionwithcctvcam.streamlit.app/">website</a></p> 
+  
+<details>
+<summary>For more details click below</summary>
+<a href="https://github.com/JuliaBars/thief_detection_with_cctv_cam">App on GitHub</a>
+
+![detection](https://github.com/JuliaBars/JuliaBars/assets/107411145/d465b6cd-18cd-45de-94c3-757014df45f1)
+</details>
+
+</p>
+
+---
 <h3>Cars models classification with PyTorch and FastAPI</h3>
 <p>
 I trained my own model and built in FastAPI app, also I've added Yolo8 to app.
@@ -40,22 +71,6 @@ You can try car models classification, object detection and object cropping with
 
 ![detection](https://github.com/JuliaBars/JuliaBars/assets/107411145/be2d4d31-2e8d-4ba9-a16d-1200344bd7a4)
 
-</details>
-
-</p>
-
----
-
-<h3>Human detection with CCTV camera</h3>
-<p>
-Human detection helps to avoid unnecessary alerts to the security system from the motion sensor if a cat or dog is in the frame.
-<p>App was deployed with Streamlit servers. Sometimes it is down:) <a href="https://thiefdetectionwithcctvcam.streamlit.app/">Website</a></p> 
-  
-<details>
-<summary>For more details click below</summary>
-<a href="https://github.com/JuliaBars/thief_detection_with_cctv_cam">App on GitHub</a>
-
-![detection](https://github.com/JuliaBars/JuliaBars/assets/107411145/d465b6cd-18cd-45de-94c3-757014df45f1)
 </details>
 
 </p>
