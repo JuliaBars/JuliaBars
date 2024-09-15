@@ -21,6 +21,9 @@ _Contact me: tg @JuliaBarss_
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Colab](https://img.shields.io/badge/google_colaboratory-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
+
+[![LeetCode user JuliaBars](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FJuliaBars&logo=leetcode&logoColor=yellow)](https://leetcode.com/JuliaBars/)
+
 ![image](https://www.codewars.com/users/JuliaBars/badges/small)
 ***
 <h2><span style="color: #2336f7"> My portfolio:</span></h2>
