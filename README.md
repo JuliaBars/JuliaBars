@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Julia.+Study+and+like+Python)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I'm+Julia.+Middle+Python+developer+)](https://git.io/typing-svg)
 
 _Contact me: tg @JuliaBarss_
 
-<h3><span style="color: #2336f7"> My stack will increase, but now it's as follow:</span></h3>
+<h3><span style="color: #2336f7"> My stack:</span></h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JS](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=javascript&logoColor=ffdd54)
